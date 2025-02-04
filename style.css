@@ -1,7 +1,18 @@
 .bir{
     background-color: rgb(255, 153, 0);
     width: 300px;
+    display: block;
 }
 .bir i{
-    margin-left: 10px;
+    margin-left: 190px;
+    width: 10px;
+}
+div{
+    display: none;
+    background-color: rgb(255, 153, 0,0.5);
+    width: 300px;
+    overflow: auto;
+}
+p{
+    display: inline;
 }
